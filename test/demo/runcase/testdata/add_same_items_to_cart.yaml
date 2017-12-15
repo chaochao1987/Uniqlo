@@ -1,0 +1,14 @@
+# -*- coding:utf-8 -*-
+type: chrome
+url: http://www.uniqlo.com/jp/
+parent_classify: WOMEN
+sub_classify: 新作
+product_number:
+  - first_product: 1
+products:
+  - color: BLACK
+    size: S
+    quantity: 5
+  - color: BLACK
+    size: S
+    quantity: 3

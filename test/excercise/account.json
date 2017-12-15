@@ -1,0 +1,20 @@
+{
+  "ADDR_NO": {
+    "accountid": "abc",
+    "ADDR_NO": "Road 25",
+    "data": {
+      "SHOP_CD": "Japan",
+      "SITE_CD": "Japan site",
+      "CUST_NO": "000001",
+      "ADDR_NO": "Road 25"",
+      "TEL_NO": "123123545"",
+      "MOBILE_NO": "123456",
+      "REG_USER_ID": "01",
+      "UPD_USER_ID": "02"
+    },
+    "regist_timestamp": 135846454654,
+    "update_timestamp": 135496846465,
+    "cas": "lsjf934hfwfh93yeohfoiewjf09wuf89weyoihwefo8wehf\n"
+  }
+  "status":"ok"
+}

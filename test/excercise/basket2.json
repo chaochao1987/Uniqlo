@@ -1,0 +1,39 @@
+{
+"delv_option_info_list":[
+    {"cart_no":"",
+      "receiving_type_list":[
+        {
+          "receiving_type":"json/text",
+          "is_avaliable_receiving":true,
+          "is_used_receiving":true,
+          "delv_type_list":[
+              {
+                "delivery_type": "",
+                "is_avaliable_delivery": true,
+                "is_used_delivery": true,
+                "plan_delv_on_from_for_disp":"1511712000",
+                "plan_delv_on_to_for_disp":"1511798400",
+                "planned_delv_time":"07",
+                "order_close_time":"1511823600",
+                "delv_company":"uniqlo company",
+                "shipment_location_id":"shipment location 01",
+                "spare_day":"2",
+                "delv_dt_list":[
+                  {
+                    "delv_dt":"1511798400",
+                    "delv_time_list":[
+                      {
+                        "delv_time":"09"
+                      }
+                    ]
+
+                  }
+                ]
+              }
+            ]
+        }
+      ]
+    }
+  ],
+"status":"ok"
+}
